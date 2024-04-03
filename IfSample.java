@@ -1,4 +1,4 @@
-package com.infograss.nov26;
+package com.madotrasaab.nov26;
 
 public class IfSample {
 
